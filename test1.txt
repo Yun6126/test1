@@ -7,3 +7,5 @@
 Test1 파일내용수정
 
 branch copy1 생성 후 수정
+
+test2 파일 필요없음
